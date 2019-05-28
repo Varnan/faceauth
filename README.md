@@ -25,14 +25,14 @@ This is a demo repository for signup with facebook in Django using the social_dj
 
 Facebook Facebook DeAuth callback URL : http:localhost:8000/deauthtication/
 
-#Requirements
+# Requirements
     pip install -r requirement.txt
 
-#Databse
+# Databse
     sqlite3
 
-#Running the application
-    Clone the project to your machine 
+# Running the application
+    Clone the project to your machine [https://github.com/Varnan/faceauth.git]
     Navigate into the diretory [cd faceauth]
     Create a virtualenv
     Install the dependencies on virtaulenv [pip install -r requirement.txt]
@@ -41,6 +41,6 @@ Facebook Facebook DeAuth callback URL : http:localhost:8000/deauthtication/
     Start the backend server [python manage.py runserver]
     Visit the application on the browser - http:localhost:8000
 
-#Built With
+# Built With
     Python - A programming language that lets you work quickly and integrate systems more effectively.
     Django - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
