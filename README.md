@@ -1,6 +1,6 @@
 # The Task
 
-Implement a Facebook app with the following features, which should take no longer than 5 hours in total. Please look to complete this at your earliest convenience and don't worry if there is still things to finish after the time, just send us what you have done. Details for the task are below:
+Implement a Facebook app with the following features :
 
 * Please use Python / Django. Make sure to implement a clean, well-structured and high-performance database scheme;
 * The user should connect/login with Facebook (logout accordingly) (Note: Plugins can be used);
