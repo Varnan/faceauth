@@ -1,4 +1,4 @@
-# The Task
+# Face Auth
 
 Implement a Facebook app with the following features :
 
